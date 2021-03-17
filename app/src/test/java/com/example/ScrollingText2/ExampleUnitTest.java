@@ -1,4 +1,4 @@
-package com.example.scrollingviews;
+package com.example.ScrollingText2;
 
 import org.junit.Test;
 
