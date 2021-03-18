@@ -1,8 +1,8 @@
-package com.example.scrollingviews;
+package com.example.ScrollingText2;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
